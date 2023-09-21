@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Filchagin_kt1/1.0.0": {
+        "runtime": {
+          "Filchagin_kt1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Filchagin_kt1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

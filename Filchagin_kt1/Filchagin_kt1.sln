@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filchagin_kt1", "Filchagin_kt1\Filchagin_kt1.csproj", "{0CB7A25F-F109-4CA0-84C7-7ADD6F020360}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filchagin_kt1_Application", "Filchagin_kt1_Application\Filchagin_kt1_Application.csproj", "{218EDAE7-7922-4A09-94B9-504AB0A610A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CB7A25F-F109-4CA0-84C7-7ADD6F020360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB7A25F-F109-4CA0-84C7-7ADD6F020360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB7A25F-F109-4CA0-84C7-7ADD6F020360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB7A25F-F109-4CA0-84C7-7ADD6F020360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{218EDAE7-7922-4A09-94B9-504AB0A610A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218EDAE7-7922-4A09-94B9-504AB0A610A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218EDAE7-7922-4A09-94B9-504AB0A610A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218EDAE7-7922-4A09-94B9-504AB0A610A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

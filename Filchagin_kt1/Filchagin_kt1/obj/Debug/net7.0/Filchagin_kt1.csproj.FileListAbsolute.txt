@@ -1,0 +1,12 @@
+C:\Users\Student\Documents\GitHub\prog_Kt_Filchagin\Filchagin_kt1\Filchagin_kt1\bin\Debug\net7.0\Filchagin_kt1.deps.json
+C:\Users\Student\Documents\GitHub\prog_Kt_Filchagin\Filchagin_kt1\Filchagin_kt1\bin\Debug\net7.0\Filchagin_kt1.dll
+C:\Users\Student\Documents\GitHub\prog_Kt_Filchagin\Filchagin_kt1\Filchagin_kt1\bin\Debug\net7.0\Filchagin_kt1.pdb
+C:\Users\Student\Documents\GitHub\prog_Kt_Filchagin\Filchagin_kt1\Filchagin_kt1\obj\Debug\net7.0\Filchagin_kt1.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\prog_Kt_Filchagin\Filchagin_kt1\Filchagin_kt1\obj\Debug\net7.0\Filchagin_kt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\GitHub\prog_Kt_Filchagin\Filchagin_kt1\Filchagin_kt1\obj\Debug\net7.0\Filchagin_kt1.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\prog_Kt_Filchagin\Filchagin_kt1\Filchagin_kt1\obj\Debug\net7.0\Filchagin_kt1.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\prog_Kt_Filchagin\Filchagin_kt1\Filchagin_kt1\obj\Debug\net7.0\Filchagin_kt1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\prog_Kt_Filchagin\Filchagin_kt1\Filchagin_kt1\obj\Debug\net7.0\Filchagin_kt1.dll
+C:\Users\Student\Documents\GitHub\prog_Kt_Filchagin\Filchagin_kt1\Filchagin_kt1\obj\Debug\net7.0\refint\Filchagin_kt1.dll
+C:\Users\Student\Documents\GitHub\prog_Kt_Filchagin\Filchagin_kt1\Filchagin_kt1\obj\Debug\net7.0\Filchagin_kt1.pdb
+C:\Users\Student\Documents\GitHub\prog_Kt_Filchagin\Filchagin_kt1\Filchagin_kt1\obj\Debug\net7.0\ref\Filchagin_kt1.dll
