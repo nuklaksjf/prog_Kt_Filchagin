@@ -8,4 +8,10 @@ public class Car : Vehicle
     {
         
     }
+
+    public override string ToString()
+    {
+        Console.Write("Машина-");
+        return base.ToString();
+    }
 }

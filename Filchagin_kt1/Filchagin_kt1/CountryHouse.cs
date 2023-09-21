@@ -8,4 +8,9 @@ public class CountryHouse : Immovable
     {
         
     }
+    public override string ToString()
+    {
+        Console.Write("Загородный дом-");
+        return base.ToString();
+    }
 }

@@ -40,7 +40,7 @@ public class Immovable : Property
 
     public override string ToString()
     {
-        return $"Стоимость:{Worth}, налог{Tax()},площадь{_square}.";
+        return $"Стоимость:{Worth}, налог: {Tax()},площадь: {_square}.";
     }
 }
 

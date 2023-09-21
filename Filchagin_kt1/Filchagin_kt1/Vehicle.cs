@@ -17,7 +17,7 @@ public class Vehicle : Property
 
     public override string ToString()
     {
-        return $"Стоимость:{Worth}, налог{Tax()},объем двигателя{_engineСapacity}.";
+        return $"Стоимость:{Worth}, налог: {Tax()},объем двигателя: {_engineСapacity}.";
     }
 }
 

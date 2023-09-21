@@ -8,4 +8,9 @@ public class Boat : Vehicle
     {
         
     }
+    public override string ToString()
+    {
+        Console.Write("Лодка-");
+        return base.ToString();
+    }
 }

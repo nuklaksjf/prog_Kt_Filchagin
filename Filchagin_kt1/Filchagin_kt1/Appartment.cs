@@ -8,4 +8,9 @@ public class Appartment : Immovable
     {
         
     }
+    public override string ToString()
+    {
+        Console.Write("Аппартаменты-");
+        return base.ToString();
+    }
 }
